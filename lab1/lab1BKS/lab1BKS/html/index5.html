@@ -1,0 +1,36 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+    
+    <input type="text" id="x" placeholder="Input x" />
+    <br />
+    <input type="text" id="y" placeholder="Input y" />
+    <br />
+    <button onclick="Send()">send</button>
+    <div id="result"></div>
+    <script>
+        function Send() {
+            let formData = new FormData();
+
+            formData.append("x", document.querySelector("#x").value);
+            formData.append("y", document.querySelector("#y").value);
+            let xhr = new XMLHttpRequest();
+            xhr.open('POST', "/lab1/handler.bks/5/");
+            xhr.send(formData);
+
+            xhr.onload = function () {
+                if (xhr.status != 200) { 
+                    alert(`Ошибка ${xhr.status}: ${xhr.statusText}`); 
+                } else {
+                    document.getElementById("result").innerHTML = xhr.response;
+                }
+            };
+
+    }
+</script>
+</body>
+</html>

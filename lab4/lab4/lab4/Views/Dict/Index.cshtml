@@ -1,0 +1,41 @@
+﻿@using lab4.Models
+@{
+    Layout = null;
+    int i = 0;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div>
+        <table>
+            <tr>
+                <td>last_name</td>
+                <td>phone_number</td>
+                <td></td>
+            </tr>
+            @foreach (lab4.Models.Directory d in ViewBag.data)
+            {
+                <tr>
+                    <td>@d.last_name</td>
+                    <td>@d.phone_number</td>
+                    @{
+                        string update_ref = "/Dict/Update?last_name=" + d.last_name + "&phone_number=" + @d.phone_number + "&id=" + i;
+                        string delete_ref = "/Dict/Delete?last_name=" + d.last_name + "&phone_number=" + @d.phone_number + "&id=" + i;
+                        i++;
+                    }
+                    <td><a href=@update_ref>Update</a> | <a href=@delete_ref>Delete</a></td>
+                </tr>
+            }
+        </table>
+        <h6><a href="/Dict/Add">Add</a></h6>
+
+
+    </div>
+</body>
+</html>

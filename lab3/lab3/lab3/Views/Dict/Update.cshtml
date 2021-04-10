@@ -1,0 +1,23 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Update</title>
+</head>
+<body>
+    <div>
+        <form method="post" action="/Dict/UpdateSave">
+            <input type="text" name="id" id="id"placeholder="line number" value="@ViewBag.id" />
+            <input type="text" name="last_name" id="last_name" placeholder="last_name" value="@ViewBag.last_name"/>
+            <input type="text" name="phone_number" id="phone_number" placeholder="phone_number"value="@ViewBag.phone_number" />
+            <input type="submit" value="submit" />
+        </form>
+    </div>
+</body>
+</html>

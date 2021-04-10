@@ -1,0 +1,26 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Delete</title>
+</head>
+<body>
+    <div>
+        @{ 
+            string delete_href = "/Dict/DeleteSave/" + ViewBag.id;
+        }
+        <form method="post" action=@delete_href>
+           <h5>@ViewBag.last_name</h5>
+            <h5>@ViewBag.phone_number</h5>
+            <input type="submit" value="DELETE" />
+        </form>
+
+    </div>
+</body>
+</html>

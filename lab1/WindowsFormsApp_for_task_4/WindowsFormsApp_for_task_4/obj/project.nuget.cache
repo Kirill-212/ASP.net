@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ytqZEk7Zj/rEpEo0541o/t2W5aW7TWs6BzorBLwjJHs8xvMujLbJA8AdrTjUx5RCFsZnOs1bdo0vi7yF9xPb3w==",
+  "success": true,
+  "projectFilePath": "C:\\ycheba\\3course2sem\\ASP.NET\\lab1\\WindowsFormsApp_for_task_4\\WindowsFormsApp_for_task_4\\WindowsFormsApp_for_task_4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kirya\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\kirya\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

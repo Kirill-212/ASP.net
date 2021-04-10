@@ -1,0 +1,15 @@
+C:\ycheba\3course2sem\ASP.NET\lab1\WindowsFormsApp_for_task_4\WindowsFormsApp_for_task_4\bin\Debug\netcoreapp3.1\WindowsFormsApp_for_task_4.exe
+C:\ycheba\3course2sem\ASP.NET\lab1\WindowsFormsApp_for_task_4\WindowsFormsApp_for_task_4\bin\Debug\netcoreapp3.1\WindowsFormsApp_for_task_4.deps.json
+C:\ycheba\3course2sem\ASP.NET\lab1\WindowsFormsApp_for_task_4\WindowsFormsApp_for_task_4\bin\Debug\netcoreapp3.1\WindowsFormsApp_for_task_4.runtimeconfig.json
+C:\ycheba\3course2sem\ASP.NET\lab1\WindowsFormsApp_for_task_4\WindowsFormsApp_for_task_4\bin\Debug\netcoreapp3.1\WindowsFormsApp_for_task_4.runtimeconfig.dev.json
+C:\ycheba\3course2sem\ASP.NET\lab1\WindowsFormsApp_for_task_4\WindowsFormsApp_for_task_4\bin\Debug\netcoreapp3.1\WindowsFormsApp_for_task_4.dll
+C:\ycheba\3course2sem\ASP.NET\lab1\WindowsFormsApp_for_task_4\WindowsFormsApp_for_task_4\bin\Debug\netcoreapp3.1\WindowsFormsApp_for_task_4.pdb
+C:\ycheba\3course2sem\ASP.NET\lab1\WindowsFormsApp_for_task_4\WindowsFormsApp_for_task_4\obj\Debug\netcoreapp3.1\WindowsFormsApp_for_task_4.csprojAssemblyReference.cache
+C:\ycheba\3course2sem\ASP.NET\lab1\WindowsFormsApp_for_task_4\WindowsFormsApp_for_task_4\obj\Debug\netcoreapp3.1\WindowsFormsApp_for_task_4.Form1.resources
+C:\ycheba\3course2sem\ASP.NET\lab1\WindowsFormsApp_for_task_4\WindowsFormsApp_for_task_4\obj\Debug\netcoreapp3.1\WindowsFormsApp_for_task_4.csproj.GenerateResource.cache
+C:\ycheba\3course2sem\ASP.NET\lab1\WindowsFormsApp_for_task_4\WindowsFormsApp_for_task_4\obj\Debug\netcoreapp3.1\WindowsFormsApp_for_task_4.AssemblyInfoInputs.cache
+C:\ycheba\3course2sem\ASP.NET\lab1\WindowsFormsApp_for_task_4\WindowsFormsApp_for_task_4\obj\Debug\netcoreapp3.1\WindowsFormsApp_for_task_4.AssemblyInfo.cs
+C:\ycheba\3course2sem\ASP.NET\lab1\WindowsFormsApp_for_task_4\WindowsFormsApp_for_task_4\obj\Debug\netcoreapp3.1\WindowsFormsApp_for_task_4.csproj.CoreCompileInputs.cache
+C:\ycheba\3course2sem\ASP.NET\lab1\WindowsFormsApp_for_task_4\WindowsFormsApp_for_task_4\obj\Debug\netcoreapp3.1\WindowsFormsApp_for_task_4.dll
+C:\ycheba\3course2sem\ASP.NET\lab1\WindowsFormsApp_for_task_4\WindowsFormsApp_for_task_4\obj\Debug\netcoreapp3.1\WindowsFormsApp_for_task_4.pdb
+C:\ycheba\3course2sem\ASP.NET\lab1\WindowsFormsApp_for_task_4\WindowsFormsApp_for_task_4\obj\Debug\netcoreapp3.1\WindowsFormsApp_for_task_4.genruntimeconfig.cache
